@@ -1,0 +1,6 @@
+In this lecture we learned what is constant(value dosent change) and variable(value might change)
+then we learned about data types in c++ they are used to distinguish between variables
+then we learned how to name these variable they will start with alphabet or underscore(_) and after that we 
+can write any number or anything after that we learned about data types -int(integer),float(decimal),
+double(decimal),char(character),bool(true-1 or false-0)
+then he discused about user define data type-->class,struct,enumerator
