@@ -1,5 +1,8 @@
 /*
-in this class we discussed about function and what are they used for
+in this class we discussed about function and what are they used for?
+so function is basically a task that is performed.
+a function has a header and a body(contains the task to perform)
+
 
 Advantage of using function:
 --reuseablity   -->we can use a function again and agian this saves times
