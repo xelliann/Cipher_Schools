@@ -10,7 +10,7 @@
 
                 TYPES OF INHERITANCE:-
                 -SINGLE: When a single class inherit the base class is called sigle inheritance
-                -MULTIPLE: When multiple class inherit single base class is called multiple inheritance
+                -MULTILEVEL: When  class inherit single base class one after another is called multiple inheritance
 
 */
 #include <iostream>
