@@ -4,7 +4,7 @@ it is do to perform a repetitive task*/
 using namespace std;
 
 int fiboo(int input){
-    if(input == 0 || input ==1){
+    if(input == 0 || input ==1){        // this is the base case where fiboonaci stops its execution
         return 1;
     }
     int final_ans;
